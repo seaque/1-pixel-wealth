@@ -1,7 +1,8 @@
 # About
 
 Source code for https://mkorostoff.github.io/1-pixel-wealth/
-Turkish translation of 1 Pixel Wealth.
+
+Turkish translation of Wealth, Shown to scale
 
 # Translations and Adaptations
 
